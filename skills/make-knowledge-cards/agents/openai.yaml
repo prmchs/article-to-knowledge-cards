@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn a pasted article or Markdown/TXT file into 5-8 single-idea knowledge cards with examples or self-test questions."
+  default_prompt: "把下面这篇文章整理成 5-8 张知识卡片，每张只讲一个知识点。"
